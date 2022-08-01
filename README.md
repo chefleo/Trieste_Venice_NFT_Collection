@@ -18,7 +18,7 @@
   <h3 align="center">Trieste - Venice NFT Collection</h3>
 
   <p align="center">
-    An awsome NFT Collection of photos about Trieste and Venice using Solidity.!
+    An awesome NFT Collection of photos about Trieste and Venice using Solidity!
     <br />
     <a href="https://github.com/chefleo/Trieste_Venice_NFT_Collection/blob/main/Trieste_Venice.sol"><strong>Explore the contract »</strong></a>
     <br />
