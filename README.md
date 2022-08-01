@@ -1,14 +1,14 @@
 ## About The Project
 <br/>
 
-![Trieste](/Trieste_Venice/images/Trieste.png)
+![Trieste](images/Trieste.png)
 
 <a href="https://testnets.opensea.io/collection/italy-trieste"><strong>Explore Trieste collection</strong></a>
 
 <br/>
 
 
-![Venice](/Trieste_Venice/images/Venice.png)
+![Venice](images/Venice.png)
 
 <a href="https://testnets.opensea.io/collection/italy-venice"><strong>Explore Venice collection</strong></a>
 
