@@ -3,14 +3,14 @@
 
 ![Trieste](images/Trieste.png)
 
-<a href="https://testnets.opensea.io/collection/italy-trieste"><strong>Explore Trieste collection</strong></a>
+<a href="https://testnets.opensea.io/collection/italytrieste"><strong>Explore Trieste collection</strong></a>
 
 <br/>
 
 
 ![Venice](images/Venice.png)
 
-<a href="https://testnets.opensea.io/collection/italy-venice"><strong>Explore Venice collection</strong></a>
+<a href="https://testnets.opensea.io/collection/italyvenice"><strong>Explore Venice collection</strong></a>
 
 <br/>
 
@@ -23,7 +23,7 @@
     <a href="https://github.com/chefleo/Trieste_Venice_NFT_Collection/blob/main/Trieste_Venice.sol"><strong>Explore the contract »</strong></a>
     <br />
     <br />
-    <a href="https://rinkeby.etherscan.io/address/0xf274ef08cf03b3b986d0570fb3a88e5da314794a">View Contract Address</a>
+    <a href="https://goerli.etherscan.io/tx/0x021402134d62082d2bd9e1cd6583c7f0e7aaeef45fb9042d9915713637c16780">View Contract Address</a>
   </p>
 </div>
 

@@ -41,34 +41,34 @@ contract Trieste_Venice is ERC1155, Ownable{
     mapping (uint256 => string) private _uris;
 
     constructor() public ERC1155("https://gateway.pinata.cloud/ipfs/QmdZ1Ua2FpbCqhCtro1jrNbCrkga4sAxyByAsZYHbhRYuY/{id}.json") {
-        _mint(msg.sender, Trieste_0, 30, "");
-        _mint(msg.sender, Trieste_1, 30, "");
-        _mint(msg.sender, Trieste_2, 30, "");
-        _mint(msg.sender, Trieste_3, 30, "");
-        _mint(msg.sender, Trieste_4, 30, "");
-        _mint(msg.sender, Trieste_5, 30, "");
-        _mint(msg.sender, Trieste_6, 30, "");
-        _mint(msg.sender, Trieste_7, 30, "");
-        _mint(msg.sender, Trieste_8, 30, "");
-        _mint(msg.sender, Trieste_9, 30, "");
-        _mint(msg.sender, Trieste_10, 30, "");
-        _mint(msg.sender, Trieste_11, 30, "");
-        _mint(msg.sender, Trieste_12, 30, "");
-        _mint(msg.sender, Trieste_13, 30, "");
-        _mint(msg.sender, Trieste_14, 30, "");
-        _mint(msg.sender, Venice_15, 30, "");
-        _mint(msg.sender, Venice_16, 30, "");
-        _mint(msg.sender, Venice_17, 30, "");
-        _mint(msg.sender, Venice_18, 30, "");
-        _mint(msg.sender, Venice_19, 30, "");
-        _mint(msg.sender, Venice_20, 30, "");
-        _mint(msg.sender, Venice_21, 30, "");
-        _mint(msg.sender, Venice_22, 30, "");
-        _mint(msg.sender, Venice_23, 30, "");
-        _mint(msg.sender, Venice_24, 30, "");
-        _mint(msg.sender, Venice_25, 30, "");
-        _mint(msg.sender, Venice_26, 30, "");
-        _mint(msg.sender, Venice_27, 30, "");
+        _mint(msg.sender, Trieste_0, 1, "");
+        _mint(msg.sender, Trieste_1, 1, "");
+        _mint(msg.sender, Trieste_2, 1, "");
+        _mint(msg.sender, Trieste_3, 1, "");
+        _mint(msg.sender, Trieste_4, 1, "");
+        _mint(msg.sender, Trieste_5, 1, "");
+        _mint(msg.sender, Trieste_6, 1, "");
+        _mint(msg.sender, Trieste_7, 1, "");
+        _mint(msg.sender, Trieste_8, 1, "");
+        _mint(msg.sender, Trieste_9, 1, "");
+        _mint(msg.sender, Trieste_10, 1, "");
+        _mint(msg.sender, Trieste_11, 1, "");
+        _mint(msg.sender, Trieste_12, 1, "");
+        _mint(msg.sender, Trieste_13, 1, "");
+        _mint(msg.sender, Trieste_14, 1, "");
+        _mint(msg.sender, Venice_15, 1, "");
+        _mint(msg.sender, Venice_16, 1, "");
+        _mint(msg.sender, Venice_17, 1, "");
+        _mint(msg.sender, Venice_18, 1, "");
+        _mint(msg.sender, Venice_19, 1, "");
+        _mint(msg.sender, Venice_20, 1, "");
+        _mint(msg.sender, Venice_21, 1, "");
+        _mint(msg.sender, Venice_22, 1, "");
+        _mint(msg.sender, Venice_23, 1, "");
+        _mint(msg.sender, Venice_24, 1, "");
+        _mint(msg.sender, Venice_25, 1, "");
+        _mint(msg.sender, Venice_26, 1, "");
+        _mint(msg.sender, Venice_27, 1, "");
     }
 
     function mint(address account, uint256 id, uint256 amount) public onlyOwner {
